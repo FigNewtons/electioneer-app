@@ -1,0 +1,10 @@
+# Byte-compiled / C extensions / etc
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+venv/
+bin/
+build/
+
